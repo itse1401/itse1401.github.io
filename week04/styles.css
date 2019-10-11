@@ -25,25 +25,3 @@ header h1 {
     margin-bottom: 30px;
 }
 
-nav {
-    float: left;
-    width: 150px;
-}
-
-nav ul {
-    padding: 0;
-    margin: 0;
-    list-style-type: none;
-    color: #7C1A00;
-}
-nav li {
-    margin: 10px;
-    border-width: 1px;
-    border-style: solid;
-    border-color: #7C1A00;
-    background-color: #ffe597;
-}
-
-nav a {
-    
-}
