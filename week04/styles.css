@@ -54,5 +54,51 @@ nav a {
 }
 
 nav a:hover {
-  color: #7C1A00;
+  background-color: #7C1A00;
+}
+
+article {
+  background-image: url("images/trans-bg.gif");
+  border: 1px solid #cccccc;
+  margin-left: 180px;
+  padding: 10px;
+}
+
+footer {
+  clear: both;
+  text-align: center;
+}
+footer li {
+  display: inline;
+  padding: 10px;
+}
+
+h1 {
+  color:8c9273;
+  border-left: 20px solid #8c9273;
+  border-bottom: 5px solid #8c9273;
+  padding-left: 5px;
+}
+
+h3 {
+  background-image: url("images/header-star-1.gif");
+  background-repeat: no-repeat;
+padding-left: 20px;
+}
+
+blockquote {
+  background-color: #ffe597;
+}
+
+ul {
+  list-style-type: none;
+}
+
+a: {
+  color: #7c1a00;
+  font-weight: bold;
+}
+
+a:hover {
+  background-color: #ffe597;
 }
